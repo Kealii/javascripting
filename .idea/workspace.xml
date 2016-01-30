@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="for_loop.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/for_loop.js">
+      <file leaf-file-name="array_values.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array_values.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12116317">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array_looping.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array_looping.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.09693053">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -46,6 +56,10 @@
         <option value="$PROJECT_DIR$/number_to_string.js" />
         <option value="$PROJECT_DIR$/if-statement.js" />
         <option value="$PROJECT_DIR$/for-loop.js" />
+        <option value="$PROJECT_DIR$/arrays.js" />
+        <option value="$PROJECT_DIR$/array_filtering.js" />
+        <option value="$PROJECT_DIR$/array_values.js" />
+        <option value="$PROJECT_DIR$/array_looping.js" />
       </list>
     </option>
   </component>
@@ -298,10 +312,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024232633">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/for_loop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12116317">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_filtering.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09693053">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_values.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_looping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09693053">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
